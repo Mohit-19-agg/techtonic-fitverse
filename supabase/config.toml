@@ -1,0 +1,2 @@
+[functions.pose-detect]
+verify_jwt = true
